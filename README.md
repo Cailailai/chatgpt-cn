@@ -1,5 +1,7 @@
 # 68个国内可用ChatGPT国内国外镜像中文网站汇总
 
+> 更新时间：2025/03/06
+
 ## 什么是ChatGPT镜像站？
 
 国内镜像中文网站实质上是将ChatGPT模型及其相关资源通过端口映射至一台位于国内的服务器，确保其可以被自由访问。在这台服务器上，Chat GPT模型负责解析用户请求并生成相应的答案，随后这些答案会被发送回国内服务器，并通过国内网站展示给用户。与官方版本的Chat GPT相比，通过国内镜像中文网站访问的服务，其提供的用户体验和响应结果保持了高度一致性。
@@ -7,7 +9,7 @@
 ## ChatGPT 国内国外镜像中文网站汇总（持续更新）
 
 #### 赠送免/费额度的：
-1. [givemegpt.top](https://givemegpt.top)-国内直接使用，注册赠送积分稳定长久 
+1. [songshugpt.com](https://songshugpt.com) -国内直接使用，注册赠送积分稳定长久 
 2. [gpt-cat.com](https://gpt-cat.top) - 国内直接使用，支持GPT4.0，GPT3.5免费
 3. [ai-panda.xyz/](https://ai-panda.xyz/) - 国内直接使用，支持GPT4.0
 4. [songshugpt.com](http://songshugpt.co) - 国内直接使用，支持GPT4.0
