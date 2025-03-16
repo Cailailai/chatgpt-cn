@@ -1,6 +1,6 @@
 # 68个国内可用ChatGPT国内国外镜像中文网站汇总
 
-> 更新时间：2025/03/14
+> 更新时间：2025/03/17
 
 ## 什么是ChatGPT镜像站？
 
@@ -9,7 +9,7 @@
 ## ChatGPT 国内国外镜像中文网站汇总（持续更新）
 
 #### 赠送免/费额度的：
-1. [songshugpt.com](https://songshugpt.com) -国内直接使用，注册赠送积分稳定长久，支持gpt-4o\gpt-o1\o3、deepseek、grok3 
+1. [songshugpt.com](https://songshugpt.com) -国内直接使用，注册赠送积分稳定长久，支持GPT-4、GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3 
 2. [gpt-cat.com](https://gpt-cat.top) - 国内直接使用，支持GPT4.0，GPT3.5免费
 3. [ai-panda.xyz/](https://ai-panda.xyz/) - 国内直接使用，支持GPT4.0
 4. [songshugpt.com](http://songshugpt.co) - 国内直接使用，支持GPT4.0
